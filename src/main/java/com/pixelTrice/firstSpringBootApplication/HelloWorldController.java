@@ -8,7 +8,7 @@ public class HelloWorldController {
 
 	@RequestMapping("/home")
 	public String index() {
-		return "Deployed by Santhosh!";
+		return "Deployed by Santhosh Kumar S";
 	}
 
 }
