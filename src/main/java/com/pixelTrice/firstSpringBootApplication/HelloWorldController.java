@@ -8,7 +8,7 @@ public class HelloWorldController {
 
 	@RequestMapping("/home")
 	public String index() {
-		return "Greetings from Spring Boot!";
+		return "Deployed by Santhosh!";
 	}
 
 }
